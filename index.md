@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yukun Ma's Home Page
 
 You can use the [editor on GitHub](https://github.com/mayktian/mayktian.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
