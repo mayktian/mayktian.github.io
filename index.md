@@ -6,7 +6,7 @@ This page serves as a humble place for an updated record of my recent research a
 
 ## Selected Publication
 
-* **Yukun Ma***, Patrick H*. Chen and Cho-Jui Hsieh. "MulCode: A Multiplicative Multi-way Model for Compressing Neural Language Model" to appear in Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (**EMNLP-IJCNLP 2019**). [Equal Contribution]
+* **Yukun Ma***, Patrick H. Chen* and Cho-Jui Hsieh. "MulCode: A Multiplicative Multi-way Model for Compressing Neural Language Model" to appear in Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (**EMNLP-IJCNLP 2019**). [Equal Contribution]
 
 * Tianyu Li, Chien-Chih Wang, **Yukun Ma**, Patricia Ortal, Qifang Zhao, Bjorn Stenger and Yu Hirate. "Learning Classifiers on Positive and Unlabeled Data with Policy Gradient", to appear in The 19th IEEE International Conference on Data Mining (**ICDM 2019**)
 * **Yukun Ma**, Haiyun Peng, Tahir Khan, Erik Cambria, and Amir Hussain. Sentic LSTM: a hybrid network for targeted aspect-based sentiment analysis. **Cognitive Computation**, 10(4), 639-650.
