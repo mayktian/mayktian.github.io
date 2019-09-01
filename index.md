@@ -6,15 +6,20 @@ This page serves as a humble place for an updated record of my recent research a
 
 ## Selected Publication
 
+### Journal
+
+* **Yukun Ma**, Haiyun Peng, Tahir Khan, Erik Cambria, and Amir Hussain. Sentic LSTM: a hybrid network for targeted aspect-based sentiment analysis. **Cognitive Computation**, 10(4), 639-650.
+
+
+* Haiyun Peng, **Yukun Ma**, Yang Li, and Erik Cambria. "Learning multi-grained aspect target sequence for Chinese sentiment analysis." **Knowledge-Based Systems** 148 (2018): 167-176.
+
+### Conference
+
 * **Yukun Ma***, Patrick H. Chen* and Cho-Jui Hsieh. "MulCode: A Multiplicative Multi-way Model for Compressing Neural Language Model" to appear in Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (**EMNLP-IJCNLP 2019**). [Equal Contribution]
 
 * Tianyu Li, Chien-Chih Wang, **Yukun Ma**, Patricia Ortal, Qifang Zhao, Bjorn Stenger and Yu Hirate. "Learning Classifiers on Positive and Unlabeled Data with Policy Gradient", to appear in The 19th IEEE International Conference on Data Mining (**ICDM 2019**)
 
-* **Yukun Ma**, Haiyun Peng, Tahir Khan, Erik Cambria, and Amir Hussain. Sentic LSTM: a hybrid network for targeted aspect-based sentiment analysis. **Cognitive Computation**, 10(4), 639-650.
-
 * Tianyu Li, **Yukun Ma**, Jiu Xu, Bjorn Stenger, Chen Liu, and Yu Hirate. Deep Heterogeneous Autoencoders for Collaborative Filtering. In 2018 IEEE International Conference on Data Mining (**ICDM 2018**) (pp. 1164-1169). IEEE.
-
-* Haiyun Peng, **Yukun Ma**, Yang Li, and Erik Cambria. "Learning multi-grained aspect target sequence for Chinese sentiment analysis." **Knowledge-Based Systems** 148 (2018): 167-176.
 
 * **Yukun Ma**, Haiyun Peng, and Erik Cambria. "Targeted aspect-based sentiment analysis via embedding commonsense knowledge into an attentive LSTM." Thirty-Second AAAI Conference on Artificial Intelligence (**AAAI 2018**). 2018.
 
