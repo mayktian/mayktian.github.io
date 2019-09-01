@@ -27,3 +27,13 @@ This page serves as a humble place for an updated record of my recent research a
 
 * **Yukun Ma**, Jung-jae Kim, Benjamin Bigot, and Tahir Muhammad Khan. "Feature-enriched word embeddings for named entity recognition in open-domain conversations." In 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2016**), pp. 6055-6059. IEEE, 2016. 
 
+## Service
+### Invited Journal Reviewer
+* IEEE Trans. Affective Computing
+* IEEE CIM
+* Artificial Intelligence Review
+* Information Fusion
+* Knowledge-based System
+### PC Member
+* NAACL 2019
+* AAAI 2019
