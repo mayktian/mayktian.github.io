@@ -31,9 +31,11 @@ This page serves as a humble place for an updated record of my recent research a
 ### Invited Journal Reviewer
 * IEEE Trans. Affective Computing
 * IEEE CIM
+* IEEE Access
 * Artificial Intelligence Review
 * Information Fusion
 * Knowledge-based System
 ### PC Member
 * NAACL 2019
 * AAAI 2019
+* AAAI 2020
