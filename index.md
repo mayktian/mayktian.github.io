@@ -1,8 +1,7 @@
 ## Yukun Ma's Home Page
 
-I'm currently a senior specialist in AIR Labs of Continental Automotive Group. I got my PhD from NTU in the year 2018. I was also a Research Associate with the Rolls-Royce@NTU Corporate Lab under supervision of Erik Cambria. I have a broad interest in natural language processing including sentiment analysis, representation learning, and language modeling. 
+A place to maintain a short list of publication. 
 
-This page serves as a humble place for an updated record of my recent research and collaboration. 
 
 ## Selected Publication
 
