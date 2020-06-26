@@ -1,16 +1,21 @@
+
+
 ## Yukun Ma's Home Page
 
-A place to maintain a short list of publication. 
-
+I am now a senior algorithm engineer with the speech group of Alibaba, Singapore. 
 
 ## Selected Publication
 
 ### Journal
+* **Ma, Yukun**, Khanh Linh Nguyen, Frank Z. Xing, and Erik Cambria. "A Survey on Empathetic Dialogue Systems." **Information Fusion** (2020).
+
+* Jing Li, Aixin Sun, **Yukun Ma**. "Neural Named Entity Boundary Detection." **IEEE Transactions on Knowledge and Data Engineering** (2020).
 
 * **Yukun Ma**, Haiyun Peng, Tahir Khan, Erik Cambria, and Amir Hussain. Sentic LSTM: a hybrid network for targeted aspect-based sentiment analysis. **Cognitive Computation**, 10(4), 639-650.
 
 
 * Haiyun Peng, **Yukun Ma**, Yang Li, and Erik Cambria. "Learning multi-grained aspect target sequence for Chinese sentiment analysis." **Knowledge-Based Systems** 148 (2018): 167-176.
+
 
 ### Conference
 
@@ -28,8 +33,9 @@ A place to maintain a short list of publication.
 
 ## Service
 ### Invited Journal Reviewer
-* IEEE Trans. Affective Computing
-* IEEE CIM
+* IEEE Transactions on Affective Computing
+* IEEE Transactions on Knowledge and Data Engineering
+* IEEE Computation Intelligence Magzine
 * IEEE Access
 * Artificial Intelligence Review
 * Information Fusion
@@ -38,3 +44,6 @@ A place to maintain a short list of publication.
 * NAACL 2019
 * AAAI 2019
 * AAAI 2020
+* EMNLP 2019
+* EMNLP 2020
+
