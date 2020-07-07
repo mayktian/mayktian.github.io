@@ -2,7 +2,7 @@
 
 ## Yukun Ma's Home Page
 
-I am now a senior algorithm engineer with the speech group of Alibaba, Singapore. 
+I am now a senior algorithm engineer with the speech lab of Alibaba DAMO Academy, Singapore. 
 
 ## Selected Publication
 
