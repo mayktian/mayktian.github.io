@@ -36,10 +36,12 @@ I am now a senior algorithm engineer with the speech lab of Alibaba DAMO Academy
 * IEEE Transactions on Affective Computing
 * IEEE Transactions on Knowledge and Data Engineering
 * IEEE Computation Intelligence Magzine
+* IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Access
 * Artificial Intelligence Review
 * Information Fusion
 * Knowledge-based System
+* Neurocomputing
 ### PC Member
 * NAACL 2019
 * AAAI 2019
