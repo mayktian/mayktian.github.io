@@ -65,6 +65,7 @@ I am now a senior algorithm engineer with the speech lab of Alibaba DAMO Academy
 ### PC Member
 * NAACL 2019,2021
 * AAAI 2019,2020,2021
-* EMNLP 2019,2020
+* EMNLP 2019,2020,2021,2023
 * EACL 2021
 * COLING 2020
+* ACL 2023
