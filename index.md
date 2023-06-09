@@ -34,13 +34,11 @@ I am now a senior algorithm engineer with the speech lab of Alibaba DAMO Academy
 * Jinjie Ni, **Yukun Ma**, Wen Wang, Qian Chen, Dianwen Ng, Han Lei, Trung Hieu Nguyen, Chong Zhang, Bin Ma, Erik Cambria. "Adaptive Knowledge Distillation Between Text and Speech Pre-Trained Models". IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2023**)
 
 
+* Dianwen Ng, Ruixi Zhang, Jia Qi Yip, Zhao Yang, Jinjie Ni, Chong Zhang, **Yukun Ma**, Chongjia Ni, Eng Siong Chng, Bin Ma. "De’hubert: Disentangling Noise in a Self-Supervised Model for Robust Speech Recognition". IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2023**)
+* Dianwen Ng, Ruixi Zhang, Jia Qi Yip, Chong Zhang, **Yukun Ma**, Trung Hieu Nguyen, Chongjia Ni, Eng Siong Chng, Bin Ma. "Contrastive Speech Mixup for Low-Resource Keyword Spotting". IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2023**)
 * **Yukun Ma**, Bin Ma. "Multimodal sentiment analysis on unaligned sequences via holographic embedding". IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2022**)
 
 * **Yukun Ma**, Trung Hieu Nguyen, Bin Ma. "CPT: Cross-Modal Prefix-Tuning for Speech-To-Text Translation".  IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2022**)
-
-* Dianwen Ng, Ruixi Zhang, Jia Qi Yip, Zhao Yang, Jinjie Ni, Chong Zhang, **Yukun Ma**, Chongjia Ni, Eng Siong Chng, Bin Ma. "De’hubert: Disentangling Noise in a Self-Supervised Model for Robust Speech Recognition". IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2023**)
-* Dianwen Ng, Ruixi Zhang, Jia Qi Yip, Chong Zhang, **Yukun Ma**, Trung Hieu Nguyen, Chongjia Ni, Eng Siong Chng, Bin Ma. "Contrastive Speech Mixup for Low-Resource Keyword Spotting". IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2023**)
-
 * **Yukun Ma**, Patrick H. Chen* and Cho-Jui Hsieh. "MulCode: A Multiplicative Multi-way Model for Compressing Neural Language Model" to appear in Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (**EMNLP-IJCNLP 2019**). [Equal Contribution]
 
 * Tianyu Li, Chien-Chih Wang, **Yukun Ma**, Patricia Ortal, Qifang Zhao, Bjorn Stenger and Yu Hirate. "Learning Classifiers on Positive and Unlabeled Data with Policy Gradient", to appear in The 19th IEEE International Conference on Data Mining (**ICDM 2019**)
